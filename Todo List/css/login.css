@@ -1,0 +1,110 @@
+body{
+    background-color: #000;
+}
+
+.login{
+    background-color: #1d1c1c;
+    width: 49%;
+    margin: 11% auto;
+    font-family: arial;
+    padding: 2%;
+    border-radius: 10px;
+    
+}
+
+.login input[type=email],input[type=text],input[type=password]{
+    display: block;
+    width: 60%;
+    padding: 0.5%;
+    background-color: #242323;
+    margin: 0.5%;
+    color:#fff;
+    
+}
+
+.login input[type=submit]{
+    display: block;
+    width: 20%;
+    padding: 0.5%;
+    background-color: #242323;
+    color: #fff;
+    margin: 0.5%;
+    border-radius: 100px;
+}
+.login input[type=submit]:hover{
+    color: #000;
+    background-color: #fff;
+
+}
+.white{
+    color: #fff;
+    text-decoration: none;
+}
+span a:hover{
+    background-color: #FFF;
+    color: #000;
+    
+}
+span,h1,h3{
+    color:#FFF;
+}
+
+.dashboardBody{
+    background-color: #000;
+    text-align: center;
+    color:#FFF;
+}
+.dashboardBody input[type=submit]:hover{
+    background-color: #fff;
+    color:#000;
+}
+.dashboardBody input[type=date]:hover{
+    background-color: #fff;
+    color:#000;
+}
+.dashboardBody a:hover{
+    background-color: #FFF;
+    color:#000;
+}
+.dashboardBody a {
+    text-decoration: none;
+    color:#FFF;
+}
+input{
+    background-color: #1d1c1c;
+    color: #FFF;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul a li{
+    display: inline-block   ;
+    padding: 1%;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+nav ul a li:hover{
+    color: #000;
+    background-color: #FFF;
+    
+}
+
+header{
+    background-color: #000;
+    color: #FFF;
+    padding: 0.5% 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
